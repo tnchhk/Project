@@ -12,7 +12,7 @@
 
 # Getting started
 
-## installation 
+## Installation 
 
 
 
@@ -49,9 +49,11 @@ Q1B.ipynb
 
 Q2.ipynb
 
+design diagram.png
+
 michael_kors_data_2024-11-10.csv
 
 # Contact
 
-### Name - Timothy
+### Name - Timothy Ng
 ### Email - tnchhk@gmail.com
