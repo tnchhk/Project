@@ -12,7 +12,9 @@
 
 # Getting started
 
+```
 pip install -r .\requirements.txt
+```
 
 ### The installation includes the following packages and their versions
 
