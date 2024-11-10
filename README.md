@@ -39,15 +39,15 @@ schedule==1.2.2
 
 ### The answers to the assessment are stored in the following:
 
-Q1A CDG-JFK.ipynb
+Q1A_CDG-JFK.ipynb
 
-Q1A MCO-ATL.ipynb
+Q1A_MCO-ATL.ipynb
 
 Q1B.ipynb
 
 Q2.ipynb (To directly run the script for the scraper, you can also use `python run_q2.py`)
 
-design diagram.png
+design_diagram.png
 
 michael_kors_data_2024-11-10.csv
 
