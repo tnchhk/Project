@@ -33,9 +33,9 @@ schedule==1.2.2
 ```
 
 ### Download the data sources from the below links
-[text](https://drive.google.com/file/d/1lowKdZSQ9O9aHAnU-e7EcWv6w0pLlkmy/view?usp=sharing)
+[CDG-JFK](https://drive.google.com/file/d/1lowKdZSQ9O9aHAnU-e7EcWv6w0pLlkmy/view?usp=sharing)
 
-[text](https://drive.google.com/file/d/1-ZMm6ZNCFRm9D-3ofy1Kt1NNaFlabsPM/view?usp=sharing)
+[MCO-ATL](https://drive.google.com/file/d/1-ZMm6ZNCFRm9D-3ofy1Kt1NNaFlabsPM/view?usp=sharing)
 
 # Outputs
 
