@@ -14,8 +14,6 @@
 
 ## Installation 
 
-
-
 ```
 pip install -r .\requirements.txt
 ```
@@ -47,7 +45,7 @@ Q1A MCO-ATL.ipynb
 
 Q1B.ipynb
 
-Q2.ipynb
+Q2.ipynb (To directly run the script for the scraper, you can also use `python run_q2.py`)
 
 design diagram.png
 
