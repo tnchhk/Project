@@ -30,7 +30,8 @@ beautifulsoup4==4.12.3
 schedule==1.2.2
 ```
 
-### Download the data sources from the below links
+### Download the data sources from the below links and place the csv files into the project root:
+
 [CDG-JFK](https://drive.google.com/file/d/1lowKdZSQ9O9aHAnU-e7EcWv6w0pLlkmy/view?usp=sharing)
 
 [MCO-ATL](https://drive.google.com/file/d/1-ZMm6ZNCFRm9D-3ofy1Kt1NNaFlabsPM/view?usp=sharing)
