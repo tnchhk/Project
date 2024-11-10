@@ -16,19 +16,15 @@ pip install -r .\requirements.txt
 
 ### The installation includes the following packages and their versions
 
+```
 numpy==2.1.3
-
 pandas==2.2.3
-
 requests==2.32.3
-
 matplotlib==3.9.2
-
 seaborn==0.13.2
-
 beautifulsoup4==4.12.3
-
 schedule==1.2.2
+```
 
 
 # Outputs
